@@ -1,9 +1,3 @@
-
-"""
-🩺 CALCULADORA DE IMC PROFISSIONAL 🩺
-Classificador de Índice de Massa Corporal - VERSÃO SIMPLES
-"""
-
 import os
 import time
 from datetime import datetime
